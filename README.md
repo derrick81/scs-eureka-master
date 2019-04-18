@@ -5,7 +5,7 @@
 - Clone as follows
 
 ```
-git clone https://github.com/papicella/scs-eureka
+git clone https://github.com/derrick81/scs-eureka-master.git
 ```
 
 - Package as shown below
